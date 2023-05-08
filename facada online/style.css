@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+        margin: 0;
+    }
+    header { background-color:black;
+    padding: 20px;
+    color: white;
+    font-size: 35px;
+    }
+body {
+    background-image: linear-gradient(#000000,#ffffff);
+}  
+.descrição1 {
+    font-size: 50px;
+    padding: 20px;
+    color :#ffffff
+}
+.descrição2 {
+    font-size: 50px;
+    padding: 20px;
+}
+.interativo{
+    padding: 95px 0; word-spacing: 1680px; margin: 20px;
+}
+.imagens1{
+    display:inline-block
+}
+
+.Contato{
+
+    font-size: 50px;
+}
